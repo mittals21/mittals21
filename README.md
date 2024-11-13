@@ -6,7 +6,8 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m working as a Frontend Developer Intern at [ElSolve IT](https://elsolveit.com/).
-- 🌱 Currently exploring Backend Development and DSA.
+- 🌱 Currently exploring Backend Development and DSA in Java.
+- 📑 My work portfolio is available at [mittal.portfolio](https://mittal-suthar.vercel.app/).
 - ⚡ Fun fact: I love music and painting.
 - 💬 Ask me about Web Development, App Development, Music or anything [here](https://www.linkedin.com/in/mittal-suthar/)
 - 📫 You can reach me out via [mittalsuthar112@gmail.com](mailto:mittalsuthar112@gmail.com)
