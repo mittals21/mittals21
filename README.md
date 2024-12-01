@@ -22,6 +22,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+![mittals21's Stats](https://github-readme-stats.vercel.app/api?username=mittals21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![mittals21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mittals21&theme=tokyonight&hide_border=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=renji18&icon=2&color=8)](https://visitcount.itsvg.in)
 
