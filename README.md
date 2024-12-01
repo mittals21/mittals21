@@ -1,8 +1,12 @@
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+</p>
 
 # <h1 align="center">👋 Hi there, I'm Mittal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About Me
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75">
+<!--  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75"> -->
+<!--   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75"> -->
 
 - 🌊 I'm from India.
 - 🔭 I’m working as a Frontend Developer Intern at [ElSolve IT](https://elsolveit.com/).
@@ -23,8 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![mittals21's Stats](https://github-readme-stats.vercel.app/api?username=mittals21&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![mittals21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mittals21&theme=dark&hide_border=true)
+![mittals21's Stats](https://github-readme-stats.vercel.app/api?username=mittals21&theme=dark&show_icons=true&hide_border=true&count_private=true)![mittals21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mittals21&theme=dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=renji18&icon=2&color=8)](https://visitcount.itsvg.in)
