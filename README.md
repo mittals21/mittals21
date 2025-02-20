@@ -16,7 +16,7 @@
 - 💬 Ask me about Web Development, App Development, Music or anything [here](https://www.linkedin.com/in/mittal-suthar/)
 - 📫 You can reach me out via [mittalsuthar112@gmail.com](mailto:mittalsuthar112@gmail.com)
 - 📫 How to find me:
-  - 📧 [Mail](mailto:aadarshjha1401@gmail.com)
+  - 📧 [Mail](mailto:mittalsuthar112@gmail.com)
   - 💼 [LinkedIn](https://www.linkedin.com/in/mittal-suthar/)
 
 
