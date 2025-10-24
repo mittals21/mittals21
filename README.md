@@ -9,7 +9,7 @@
 <!--   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75"> -->
 
 - 🌊 I'm from India.
-- 🔭 I’m working as a Frontend Developer Intern at [ElSolve IT](https://elsolveit.com/).
+- 🔭 I’m working as a Full Stack Developer at [Growception Media](https://growception.com/).
 - 🌱 Currently exploring Backend Development and DSA in Java.
 - 📑 My work portfolio is available at [mittal.portfolio](https://mittal-suthar.vercel.app/).
 - ⚡ Fun fact: I love music and painting.
