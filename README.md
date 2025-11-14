@@ -10,7 +10,7 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m working as a Full Stack Developer at [Growception Media](https://growception.com/).
-- 🌱 Currently exploring Backend Development and DSA in Java.
+- 🌱 Currently exploring Backend Development and DSA.
 - 📑 My work portfolio is available at [mittal.portfolio](https://mittal-suthar.vercel.app/).
 - ⚡ Fun fact: I love music and painting.
 - 💬 Ask me about Web Development, App Development, Music or anything [here](https://www.linkedin.com/in/mittal-suthar/)
